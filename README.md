@@ -39,9 +39,6 @@ MySQL database
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/smart-waste-management.git
 
 Navigate to the project directory:
 
