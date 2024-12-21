@@ -39,6 +39,7 @@ MySQL database
 
 Installation
 
+XAMPP server
 
 Navigate to the project directory:
 
